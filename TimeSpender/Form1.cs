@@ -1,9 +1,12 @@
 using System;
 using System.Collections.Generic;
-using System.Windows.Forms;
-using System.Net.Http;
-using System.Threading.Tasks;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
 
 
 namespace TimeSpender
@@ -18,6 +21,8 @@ namespace TimeSpender
         public Form1()
         {
             InitializeComponent();
+
+
             timer = new Timer();
             timer.Interval = 1000;
             timer.Tick += Timer_Tick;

@@ -10,6 +10,8 @@ app.use(bodyParser.json());
 db.serialize(() => {
     // Создание таблицы для хранения данных о времени
     db.run("CREATE TABLE TimeEntries (id INTEGER PRIMARY KEY AUTOINCREMENT, category TEXT, timeSpent REAL)");
+    db.run("CREATE TABLE categories (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT)");
+
 
     // Обработка POST-запросов для сохранения времени
     app.post('/saveTime', (req, res) => {
@@ -22,6 +24,26 @@ db.serialize(() => {
         });
     });
 
+    // Обработка GET-запросов для получения категорий
+    app.get('/categories', (req, res) => {
+        db.all("SELECT name FROM Categories", [], (err, rows) => {
+            if(err){
+                return res.status(500).send(err.message);
+            }
+            res.json(rows.map(row => row.name));
+        });
+    });
+    
+    // Обработка DELETE-запросов для очистки данных
+    app.delete('clearTimeEntries', (req, res) =>{
+        db.run("DELETE FROM TimeEntries", function(err){
+            if(err){
+                return res.status(500).send(err.message);
+            }
+            res.status(200).send("Time entries cleared");
+        });
+    });
+    
     // Запуск сервера
     app.listen(3000, () => {
         console.log('Server is running on port 3000');

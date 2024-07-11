@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\games\\source\\repos\\TimeSpender\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|c:\\users\\games\\source\\repos\\timespender\\timespender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|solutionrelative:timespender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|C:\\Users\\games\\source\\repos\\TimeSpender\\timespender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|solutionrelative:timespender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|c:\\users\\games\\source\\repos\\timespender\\timespender\\categoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|solutionrelative:timespender\\categoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|C:\\Users\\games\\source\\repos\\TimeSpender\\timespender\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|solutionrelative:timespender\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|c:\\users\\games\\source\\repos\\timespender\\timespender\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|solutionrelative:timespender\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|c:\\users\\games\\source\\repos\\timespender\\timespender\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|solutionrelative:timespender\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|c:\\users\\games\\source\\repos\\timespender\\timespender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|solutionrelative:timespender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|C:\\Users\\games\\source\\repos\\TimeSpender\\timespender\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|solutionrelative:timespender\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|c:\\users\\games\\source\\repos\\timespender\\timespender\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83B6F52-C585-4F51-A175-E1BB34E86DB8}|TimeSpender\\TimeSpender.csproj|solutionrelative:timespender\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\games\\source\\repos\\TimeSpender\\TimeSpender\\Form1.cs",
               "RelativeDocumentMoniker": "TimeSpender\\Form1.cs",
               "ToolTip": "C:\\Users\\games\\source\\repos\\TimeSpender\\TimeSpender\\Form1.cs",
               "RelativeToolTip": "TimeSpender\\Form1.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAA9wE4AAAAoAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T09:09:35.512Z",
               "IsPinned": true,
@@ -52,20 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\TimeSpender\\TimeSpender\\Form1.cs",
-              "RelativeDocumentMoniker": "TimeSpender\\Form1.cs",
-              "ToolTip": "C:\\Users\\games\\source\\repos\\TimeSpender\\TimeSpender\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "TimeSpender\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T08:55:20.367Z",
-              "IsPinned": true,
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\games\\source\\repos\\TimeSpender\\TimeSpender\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "TimeSpender\\Form1.Designer.cs",
@@ -79,15 +62,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentIndex": 1,
+              "Title": "CategoryForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\games\\source\\repos\\TimeSpender\\TimeSpender\\CategoryForm.cs",
               "RelativeDocumentMoniker": "TimeSpender\\CategoryForm.cs",
-              "ToolTip": "C:\\Users\\games\\source\\repos\\TimeSpender\\TimeSpender\\CategoryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "TimeSpender\\CategoryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\TimeSpender\\TimeSpender\\CategoryForm.cs [Design]",
+              "RelativeToolTip": "TimeSpender\\CategoryForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T09:08:47.349Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -107,13 +91,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CategoryForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\games\\source\\repos\\TimeSpender\\TimeSpender\\CategoryForm.Designer.cs",
               "RelativeDocumentMoniker": "TimeSpender\\CategoryForm.Designer.cs",
               "ToolTip": "C:\\Users\\games\\source\\repos\\TimeSpender\\TimeSpender\\CategoryForm.Designer.cs",
               "RelativeToolTip": "TimeSpender\\CategoryForm.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwCkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T09:44:31.157Z",
               "EditorCaption": ""
